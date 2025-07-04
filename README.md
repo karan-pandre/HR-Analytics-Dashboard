@@ -14,10 +14,10 @@ Published dashboard online for real-time access and presentation.
 📷 Dashboard Preview
 
 🔗 Live Demo
-👉 View Live HR Analytics Dashboard
+👉 View Live HR Analytics Dashboard (https://app.powerbi.com/view?r=eyJrIjoiZTg5MDA1ZWYtZTNhMi00OWRmLWJmYzktOTY2ODEwZjY3NDg3IiwidCI6IjZiYWI3NzY1LWMzODctNGQwZC05YmU3LTdmNTY3OTI1MTU5NCIsImMiOjEwfQ%3D%3D)
 
 🛠️ Tools & Technologies
-Power BI – Data visualization and dashboard
+Power BI – Data visualization and dashboard 
 
 Python – Data preprocessing, model building
 
